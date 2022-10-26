@@ -2,3 +2,8 @@
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 12.0
+
+[submodule "acsone/account-analytic"]
+	path = acsone/account-analytic
+	url = git@github.com:acsone/account-analytic.git
+	branch = 14.0-add-stock_picking_analytic-dro
