@@ -7,3 +7,8 @@
 	path = acsone/account-analytic
 	url = git@github.com:acsone/account-analytic.git
 	branch = 14.0-add-stock_picking_analytic-dro
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
